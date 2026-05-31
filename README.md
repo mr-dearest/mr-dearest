@@ -180,6 +180,7 @@
 
 <h3>Certifications ヽ(•‿•)ノ</h3>
 <ul>
+  <li><strong>EF SET English Certificate 80/100 (C2 Proficient)</strong></li>
   <li><strong>Cisco Apply AI: Analyze Customer Reviews</strong></li>
   <li><strong>Cisco CCNA: Switching, Routing, and Wireless Essentials</strong></li>
   <li><strong>Cisco CCNA: Introduction to Networks</strong></li>
